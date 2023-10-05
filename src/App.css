@@ -1,0 +1,63 @@
+.cartola-logo{
+  height: 100px;
+  width: 300px;
+  border-radius: 0.5ch;
+}
+
+.card-list{
+  background: #fff;
+}
+
+.text-title{
+  color: #000;
+  font-size: 30px;
+  padding-top: 10px;
+}
+
+.container{
+  align-items: center;
+  padding: 50px;
+}
+
+.time-escudo-img {
+  height: 50px; /* Adjust the height as needed */
+  width: 50px; /* Adjust the width as needed */
+} 
+
+.container-texts {
+ display: flex;
+ flex-direction: column;
+}
+
+
+.container-times{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.nome-time{
+  font-size: 27px;
+  height: 40px;
+  font-weight: bold;
+  margin-left: 60px;
+  
+}
+.apelido-time{
+  font-size: 10px;
+  margin-left: 65px;
+}
+.container-texts{
+  color: #000;
+  height: 90px;
+}
+
+.jogadores-img{
+  height: 45px;
+}
+
+.container-jogadores{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding-bottom: 20px;
+}
